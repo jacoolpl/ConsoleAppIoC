@@ -1,0 +1,2 @@
+# ConsoleAppIoC
+Example of IoC
